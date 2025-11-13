@@ -12,7 +12,7 @@ section h1 {
     text-align: center;
 }
 body {
-    background-image: url(assets/bg-pic.jpeg);
+    background-image: url(assets/extra-bg.jpeg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
